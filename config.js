@@ -14,5 +14,5 @@ const CONFIG = {
     mess: 'Anh cũng thấy anh  đẹp trai 🥰. i Love you 3000💖, moa moa 😘😘', 
     messDesc: '💬💬 Nhắn tin cho Anh nha 💬💬',
     btnAccept: 'Ok nạ 💖',
-    messLink: 'https://www.facebook.com/duybiz.03'
+    messLink: 'https://www.facebook.com/profile.php?id=100014373010026&locale=vi_VN'
 }
